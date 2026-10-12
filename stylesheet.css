@@ -1,0 +1,40 @@
+body {
+color: rgb(96, 162, 228);
+background: white;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+margin-left: 10%;
+margin-right: 10%;
+}
+h1 {
+color: #457926;
+font-family: Georgia,"Times New Roman",Times,serif;
+font-size: 2em;
+text-transform: uppercase;
+margin-left: -8%;
+}
+h2 {
+color: #457926;
+font-family: Georgia,"Times New Roman",Times,serif;
+font-size: 1.7em;
+border: solid;
+margin-left: -4%;
+margin-top: 2em;
+margin-bottom: 2em;
+}
+p {
+font-size: 1.2em;
+text-indent: 2em;
+}
+blockquote {
+font-size: 1em;
+font-style: italic;
+color: black;
+background: red;
+}
+.first-line {
+font-weight: bold;
+}
+#first {
+font-size: 1.4em;
+color: blue;
+}
